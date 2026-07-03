@@ -1,0 +1,5 @@
+print("Hello Kishore")
+print("I am good")
+print("How are you")
+print("10091992")
+print(10091992)
